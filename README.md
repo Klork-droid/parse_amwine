@@ -3,7 +3,7 @@
 
 ![alt text](img/Screenshot_5.png)
 
-Выбор категории
+Выбор категории в catalog.py 
 
 ![alt text](img/Screenshot_6.png)
 
